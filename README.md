@@ -1,5 +1,5 @@
 # AboveElbowSocket3D
-Fusion360 Files for Upper Arm Above ELBOW Socket, 
+Fusion360 Files for Upper Arm Passive 3D printed Design.
 Modular Design: With Abobe ELBOW Socket, Elbow, ForeArm , Hand printed as separate sections then joined together , NO Addional Screw required. GLUE is required. 
 Can be resized. 
 Print with: The following Materials:
